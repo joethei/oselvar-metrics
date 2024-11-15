@@ -1,4 +1,7 @@
-airbnb/visx
-gatsbyjs/gatsby
-storybookjs/storybook
-behave/behave
+obsidianmd/obsidian-releases
+obsidianmd/obsidian-translations
+obsidianmd/obsidian-help
+obsidianmd/obsidian-developer-docs
+obsidianmd/obsidian-importer
+obsidianmd/obsidian-sample-plugin
+obsidianmd/obsidian-clipper
